@@ -1,0 +1,38 @@
+/* Form Styling */
+.add-product-form {
+  margin-top: 20px;
+  max-width: 500px;
+  background-color: white;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 5px;
+  border: solid 2px rgb(233, 233, 233);
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.input-field {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: var(--border-radius);
+  width: 100%;
+}
+
+.button {
+  margin-top: 10px;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+}

@@ -1,0 +1,92 @@
+/* Input Section */
+.product-input {
+  display: flex;
+  gap: 10px;
+  margin: 20px;
+}
+
+.input-field {
+  padding: 5px 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: var(--border-radius);
+  width: 70%;
+}
+.qr-code {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Product Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th,
+table td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table th {
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table td {
+  vertical-align: middle;
+}
+
+.product-img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: var(--border-radius);
+}
+
+.quantity-input {
+  width: 50px;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: var(--border-radius);
+}
+
+/* Total Section */
+.total-section {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: white;
+}
+
+.total-section p {
+  margin: 5px 0;
+}
+
+/* Customer Info */
+.customer-info {
+  background-color: white;
+  margin: 20px auto;
+  width: 50%;
+  padding: 20px;
+  border-radius: 5px;
+  border: solid 1px rgb(244, 244, 244);
+}
+
+.customer-info h3 {
+  margin-bottom: 15px;
+}
+
+.customer-info .input-field {
+  margin-bottom: 10px;
+}

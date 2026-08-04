@@ -1,0 +1,148 @@
+/* General Page Styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+/* Support Banner */
+.support-banner {
+  background-color: #264769;
+  color: white;
+  text-align: center;
+  padding: 40px;
+  margin: 20px 40px;
+  border-radius: 5px;
+}
+
+.support-banner h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+.support-banner p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+/* FAQ Section */
+.faq-section {
+  margin: 40px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.faq-section h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.faq-item {
+  margin-bottom: 20px;
+}
+
+.faq-item h3 {
+  font-size: 20px;
+  color: #007bff;
+  margin-bottom: 5px;
+}
+
+.faq-item p {
+  color: #555;
+  font-size: 16px;
+}
+
+/* Contact Form Section */
+.contact-form-section {
+  margin: 40px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form-section h2 {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.contact-form-section p {
+  font-size: 16px;
+  color: #555;
+}
+
+.contact-form-section label {
+  display: block;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+}
+
+.contact-form-section input,
+.contact-form-section textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact-form-section .submit-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.contact-form-section .submit-button:hover {
+  background-color: #0056b3;
+}
+
+/* Support Contact Section */
+.support-contact {
+  margin: 40px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.support-contact h2,
+.support-contact h3 {
+  font-size: 28px;
+  color: #333;
+}
+
+.support-contact p,
+.support-contact ul {
+  font-size: 16px;
+  color: #555;
+}
+
+.support-contact ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.support-contact ul li {
+  margin-bottom: 10px;
+}
+
+.support-contact a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.support-contact a:hover {
+  text-decoration: underline;
+}
