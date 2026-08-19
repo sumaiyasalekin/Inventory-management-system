@@ -27,4 +27,7 @@ A full-stack web application designed to streamline inventory tracking, staff ac
 | **Core Workflows** | Staff Operations, Inventory Tracking, Purchase Processing[cite: 2] |
 
 ## 👤 Author
+* **Md. Musa**
 **Sumaiya Salekin Saba**
+* **Sanjida Binta Islam**
+* **Nadia Zerin**
