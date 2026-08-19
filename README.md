@@ -28,6 +28,6 @@ A full-stack web application designed to streamline inventory tracking, staff ac
 
 ## 👤 Author
 * **Md. Musa**
-**Sumaiya Salekin Saba**
+* **Sumaiya Salekin Saba**
 * **Sanjida Binta Islam**
 * **Nadia Zerin**
