@@ -5,7 +5,7 @@ A full-stack web application designed to streamline inventory tracking, staff ac
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="images/inventory-dashboard.png" alt="Inventory Management System Dashboard" width="900">
+  <img src="Screenshot 2025-12-10 220944.png" alt="Inventory Management System Dashboard" width="900">
 </p>
 
 ## ✨ Features & Modules
